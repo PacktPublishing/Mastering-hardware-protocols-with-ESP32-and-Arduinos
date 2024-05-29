@@ -1,0 +1,1 @@
+https://github.com/villeneuve/libsigrokdecode-ds18b20/blob/main/README.md
